@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Lissa Takahashi!
 
-![Lissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissatakahashi&show_icons=true&theme=radical)
+![Lissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissatakahashi&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
