@@ -2,11 +2,14 @@
 
 Atualmente sou estudante do curso de Ciência da Computação na UTFPR!
 
+![Lissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissatakahashi&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gif-Lissa" height="125" width="125" src="https://media.discordapp.net/attachments/1119610196810010657/1145389069002608650/avatargithub.gif">
+  <img align="right" alt="Gif-Lissa" height="100" width="100" src="https://media.discordapp.net/attachments/1119610196810010657/1145389069002608650/avatargithub.gif">
 </div>
 
 ##
