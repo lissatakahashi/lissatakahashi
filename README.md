@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Lissa Takahashi!
 
-Atualmente sou estudante do curso de Ciência da Computação na UTFPR!
-
 ![Lissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissatakahashi&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
