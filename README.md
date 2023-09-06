@@ -9,6 +9,7 @@ Tenho 21 anos, estou fazendo o curso de bacharelado em Ciência da Computação 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="Gif-Lissa" height="100" width="100" src="https://media.discordapp.net/attachments/1119610196810010657/1145389069002608650/avatargithub.gif">
 </div>
 
