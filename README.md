@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lissa Takahashi!
+# Olá! Eu sou a Lissa Takahashi!
 
 Tenho 21 anos, estou fazendo o curso de bacharelado em Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR) e atualmente estou no 7º período do curso :)
 
