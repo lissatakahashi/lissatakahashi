@@ -1,6 +1,6 @@
 # Olá! Eu sou a Lissa Takahashi!
 
-Tenho 23 anos, estou fazendo o curso de bacharelado em Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR) e atualmente estou no 8º período do curso :)
+Tenho 23 anos, estou fazendo o curso de bacharelado em Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR) e atualmente estou no último período do curso :)
 
 ![Lissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissatakahashi&show_icons=true&theme=dracula)
 
